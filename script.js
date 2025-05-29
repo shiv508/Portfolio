@@ -44,7 +44,7 @@ document.addEventListener('DOMContentLoaded', function () {
     const projects = [
         {
             title: "Spotify Functional Clone",
-            description: "Spotify UI clone with music playback functionality built with React and Spotify API integration.",
+            description: "Spotify UI clone with music playback functionality.",
             link: "https://github.com/shiv508/Spotify-Functional-Clone"
         },
         {
@@ -66,6 +66,21 @@ document.addEventListener('DOMContentLoaded', function () {
             title: "Netflix UI Clone",
             description: "Netflix-inspired responsive dark UI with movie browsing functionality.",
             link: "https://github.com/shiv508/Netflix-Clone"
+        },
+        {
+            title: "X User Interface",
+            description: "Responsive X home page UI clone built with Tailwind CSS.",
+            link: "https://github.com/shiv508/X-User-Interface"
+        },
+        {
+            title: "Healthcare App Dashboard",
+            description: "Healthcare App Dashboard using React.",
+            link: "https://github.com/shiv508/Healthcare-App"
+        },
+        {
+            title: "Chat Application",
+            description: "A Chat Application using React.",
+            link: "https://github.com/shiv508/Chat-App"
         }
     ];
 
