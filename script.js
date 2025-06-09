@@ -47,9 +47,14 @@ document.addEventListener('DOMContentLoaded', function () {
             description: "Spotify UI clone with music playback functionality.",
             link: "https://github.com/shiv508/Spotify-Functional-Clone"
         },
+         {
+            title: " Password Manager",
+            description: "Developed a responsive password manager application using React and Tailwind that securely stores, manages, and updates user passwords.",
+            link: "https://github.com/shiv508/Password-Manager"
+        },
         {
             title: "Student Management System",
-            description: "Complete student record management system using Java Swing and Oracle database.",
+            description: "Complete student record management system using Java Servlet and Oracle database.",
             link: "https://github.com/shiv508/StudentManagementSystem"
         },
         {
@@ -76,6 +81,11 @@ document.addEventListener('DOMContentLoaded', function () {
             title: "Healthcare App Dashboard",
             description: "Healthcare App Dashboard using React.",
             link: "https://github.com/shiv508/Healthcare-App"
+        },
+         {
+            title: " Todo List App",
+            description: "Created a simple and responsive Todo List app using React and Tailwind that helps users add, edit, and delete daily tasks.",
+            link: "https://github.com/shiv508/TodoList-App"
         },
         {
             title: "Chat Application",
